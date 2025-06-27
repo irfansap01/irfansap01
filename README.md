@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Irfan Saputra Nasution](../irfansap01/github-header-image.png)
+![Irfan Saputra Nasution](github-header-image.png)
 
 - Pronouns: He/Him
 - How to reach me:
