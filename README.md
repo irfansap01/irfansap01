@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi World! I'm Irfan Saputra Nasution 👋
 
 <!--
 **irfansap01/irfansap01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Silent](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXczYTNsNHk1Z3F5Zjlrb3AwYWo3ZWFhZzY2dWFhbTYybmE4cnNxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R9OjKLmy4RAgqac/giphy.gif)
+
+🌱 I’m currently learning **Laravel Framework**
